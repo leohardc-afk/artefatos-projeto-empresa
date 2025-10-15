@@ -1,0 +1,3 @@
+Documento de teste - Artefatos de Projeto
+Criado para fins de governança e controle de configuração.
+Responsável: [Leandro]
